@@ -1,6 +1,6 @@
 # CNN-Based Signal Modulation Classification for Spectrum Sharing in Cognitive Radio Radio Networks
 
-This is project undertaken during my masters program at University of Strathclyde, Glasgow. 
+This is project was undertaken during my masters program at University of Strathclyde, Glasgow. 
 
 # Overview
 
