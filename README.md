@@ -22,6 +22,6 @@ Challenges faced in 5G wireless technologies arise from the lack of radio spectr
 
 # Signal Modulation Classification Demonstration
 A simple MATLAB based application was developed for the purpose of demonstrating the models effectiveness at signal modulation classification at different SNR values.
-![Alt text](images/Screenshot 2024-08-13 at 2.14.24 PM.png)
+![Alt text](images/Screenshot.png)
 
 # Footnotes
